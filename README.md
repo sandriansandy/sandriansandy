@@ -10,4 +10,11 @@ I have some certificate to provide my skill in Machine Learning such as :
 * [Basic of Data Visualization](https://www.dicoding.com/certificates/RVZK15Y4MPD5)
 * [Python Basic Programming](https://www.dicoding.com/certificates/JMZV27J5JZN9)
 
-You guys can reach me on [LinkedIn](https://www.linkedin.com/in/sandrianyulianfn/)
+You guys can reach me on [LinkedIn](https://www.linkedin.com/in/sandrianyulianfn/).\
+
+<p align="left">
+<a href="https://github.com/sandriansandy">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
